@@ -1,6 +1,5 @@
-
 {
-  "Version": "1.0.0",
+  "Version": "2.0.0",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO! 😁
   Clique para atualizar 👇🏽",
   "UrlUpdate": "https://raw.githubusercontent.com/Kryptorvps/Conecta4g/main/Hav5",
@@ -13,7 +12,7 @@
   "Servers": [
 	  
      {
-      "Name": "FLARE/WS/TLS/L1",
+      "Name": "FLARE/WS/TLS/L1 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.nvkf3.us",
@@ -24,7 +23,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE/WS/TLS/L2",
+      "Name": "FLARE/WS/TLS/L2 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.com.br",
@@ -35,7 +34,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE/WS/TLS/L3",
+      "Name": "FLARE/WS/TLS/L3 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.kf3.cc",
@@ -46,7 +45,7 @@
       "PASS": ""
     },
     {
-      "Name": "FLARE/WS/TLS/L4",
+      "Name": "FLARE/WS/TLS/L4 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.ga",
@@ -57,7 +56,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE/WS/TLS/L5",
+      "Name": "FLARE/WS/TLS/L5 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "b1.fr13nds.com.br",
@@ -68,7 +67,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE/DIRECT/SSL",
+      "Name": "FLARE/DIRECT/SSL 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.ga",
@@ -79,7 +78,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE/DROP",
+      "Name": "FLARE/DROP 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "b1.fr13nds.ga",
@@ -90,7 +89,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FRONT/WS/TLS",
+      "Name": "FRONT/WS/TLS 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "d2b3quvk7fp3u5.cloudfront.net",
