@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "ReleaseNotes": "👋 NOVA ATUALIZAÇÃO DISPONÍVEL! 👋 🚀 CLIQUE EM ATUALIZAR 🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/Kryptorvps/Conecta4g/main/Hav5",
   "Sms": "",
@@ -10,7 +10,7 @@
   "UdpPort": "7100;7200;7300",
   "Servers": [
 	{
-      "Name": "FLARE-1 WS/TLS 🇧🇷",
+      "Name": "FLARE-1 WS/TLS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.com.br",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE-2 WS/TLS 🇧🇷",
+      "Name": "FLARE-2 WS/TLS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.nvkf3.us",
@@ -32,7 +32,7 @@
       "PASS": ""
     },
     {
-      "Name": "FLARE-3 WS/TLS 🇧🇷",
+      "Name": "FLARE-3 WS/TLS🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "www.kf3.cc",
@@ -43,7 +43,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE-4 WS/TLS 🇧🇷",
+      "Name": "FLARE-4 WS/TLS🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.ga",
@@ -54,7 +54,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE-5 WS/TLS 🇧🇷",
+      "Name": "FLARE-5 WS/TLS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "b1.fr13nds.com.br",
@@ -65,7 +65,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE-6 SOCKS/SSL 🇧🇷",
+      "Name": "FLARE-6 SOCKS/SSL",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "fr13nds.ga",
@@ -76,7 +76,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FLARE-7 DROP 🇧🇷",
+      "Name": "FLARE-7 DROP",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "b1.fr13nds.ga",
@@ -87,7 +87,7 @@
       "PASS": ""
     },
 	{
-      "Name": "FRONT-8 WS/TLS 🇧🇷",
+      "Name": "FRONT-8 WS/TLS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "d2b3quvk7fp3u5.cloudfront.net",
